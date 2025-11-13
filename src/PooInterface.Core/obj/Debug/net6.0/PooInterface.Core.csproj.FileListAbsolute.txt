@@ -1,0 +1,12 @@
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\bin\Debug\net6.0\PooInterface.Core.deps.json
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\bin\Debug\net6.0\PooInterface.Core.dll
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\bin\Debug\net6.0\PooInterface.Core.pdb
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\obj\Debug\net6.0\PooInterface.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\obj\Debug\net6.0\PooInterface.Core.AssemblyInfoInputs.cache
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\obj\Debug\net6.0\PooInterface.Core.AssemblyInfo.cs
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\obj\Debug\net6.0\PooInterface.Core.csproj.CoreCompileInputs.cache
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\obj\Debug\net6.0\PooInterface.Core.sourcelink.json
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\obj\Debug\net6.0\PooInterface.Core.dll
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\obj\Debug\net6.0\refint\PooInterface.Core.dll
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\obj\Debug\net6.0\PooInterface.Core.pdb
+C:\Users\Diego Matias\pOOInterface\src\PooInterface.Core\obj\Debug\net6.0\ref\PooInterface.Core.dll
