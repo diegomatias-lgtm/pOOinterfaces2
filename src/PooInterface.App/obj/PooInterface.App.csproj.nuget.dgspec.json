@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\PooInterface.App.csproj": {}
+    "C:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\PooInterface.App.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\PooInterface.App.csproj": {
+    "C:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\PooInterface.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\PooInterface.App.csproj",
+        "projectUniqueName": "C:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\PooInterface.App.csproj",
         "projectName": "PooInterface.App",
-        "projectPath": "c:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\PooInterface.App.csproj",
+        "projectPath": "C:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\PooInterface.App.csproj",
         "packagesPath": "C:\\Users\\Diego Matias\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\obj\\",
+        "outputPath": "C:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

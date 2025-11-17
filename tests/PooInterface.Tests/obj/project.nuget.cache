@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+/HrdirMC60=",
+  "dgSpecHash": "209rhdSMH+w=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Diego Matias\\pOOInterface\\tests\\PooInterface.Tests\\PooInterface.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Diego Matias\\pOOInterface\\tests\\PooInterface.Tests\\PooInterface.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego Matias\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
     "C:\\Users\\Diego Matias\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.2\\microsoft.net.test.sdk.17.7.2.nupkg.sha512",

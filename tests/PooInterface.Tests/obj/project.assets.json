@@ -5473,11 +5473,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Diego Matias\\pOOInterface\\tests\\PooInterface.Tests\\PooInterface.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Diego Matias\\pOOInterface\\tests\\PooInterface.Tests\\PooInterface.Tests.csproj",
       "projectName": "PooInterface.Tests",
-      "projectPath": "c:\\Users\\Diego Matias\\pOOInterface\\tests\\PooInterface.Tests\\PooInterface.Tests.csproj",
+      "projectPath": "C:\\Users\\Diego Matias\\pOOInterface\\tests\\PooInterface.Tests\\PooInterface.Tests.csproj",
       "packagesPath": "C:\\Users\\Diego Matias\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Diego Matias\\pOOInterface\\tests\\PooInterface.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Diego Matias\\pOOInterface\\tests\\PooInterface.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5498,8 +5498,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.Core\\PooInterface.Core.csproj": {
-              "projectPath": "c:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.Core\\PooInterface.Core.csproj"
+            "C:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.Core\\PooInterface.Core.csproj": {
+              "projectPath": "C:\\Users\\Diego Matias\\pOOInterface\\src\\PooInterface.Core\\PooInterface.Core.csproj"
             }
           }
         }
