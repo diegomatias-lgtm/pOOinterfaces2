@@ -10,6 +10,7 @@
 
 
 
+
 ## Sumário de Fases
 
 - Fase 0 — Aquecimento conceitual (`src/fase-00-aquecimento`)
@@ -26,12 +27,24 @@
     - Entrega da Fase 6 (artefato): `src/fase-06-repository-csv/FASE-06-Repository-CSV.md`
 - Fase 7 — Repository JSON (persistência em arquivo JSON) (`src/fase-07-repository-json`)
     - Entrega da Fase 7 (artefato): `src/fase-07-repository-json/FASE-07-Repository-JSON.md`
-- Fase 8 — Repository CSV (`src/fase-08-repository-csv`)
+- Fase 8 — ISP (Interface Segregation Principle) (`src/fase-08-isp`)
+    - Entrega da Fase 8 (artefato): `src/fase-08-isp/FASE-08-ISP.md`
 - Fase 9 — Repository JSON (`src/fase-09-repository-json`)
 - Fase 10 — Testabilidade: dublês e costuras (`src/fase-10-testabilidade`)
 - Fase 11 — Cheiros e antídotos (`src/fase-11-cheiros-antidotos`)
 - Fase 12 — Eixos / composição (opcional) (`src/fase-12-eixos-opcional`)
 - Fase 13 — Mini-projeto (`src/fase-13-mini-projeto`)
+## Como executar os testes da Fase 8
+
+1. Abra o terminal na raiz do projeto.
+2. Execute:
+    ```
+    dotnet test src/fase-08-isp/CatalogQueryTests.cs
+    ```
+    Ou rode todos os testes do projeto:
+    ```
+    dotnet test
+    ```
 ## Como executar os testes da Fase 7
 
 1. Abra o terminal na raiz do projeto.
