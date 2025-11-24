@@ -8,6 +8,7 @@
 - Nicolas Gabriel Brunismann — RA: 2716011
 - Luan Cesar Costa — RA: 2706032
 
+
 ## Sumário de Fases
 
 - Fase 0 — Aquecimento conceitual (`src/fase-00-aquecimento`)
@@ -18,8 +19,10 @@
     - Entrega da Fase 3 (artefato): `src/fase-03-oo-sem-interface/FASE-03-OO-Sem-Interface.md`
 - Fase 4 — Interface plugável e testável (`src/fase-04-com-interfaces`)
     - Entrega da Fase 4 (artefato): `src/fase-04-com-interfaces/FASE-04-Com-Interfaces.md`
-- Fase 5 — Essenciais de interfaces em C# (`src/fase-05-essenciais-interfaces-csharp`)
-- Fase 6 — ISP na prática (`src/fase-06-isp`)
+- Fase 5 — Repository InMemory (contrato + implementação em coleção) (`src/fase-05-repository-inmemory`)
+    - Entrega da Fase 5 (artefato): `src/fase-05-repository-inmemory/FASE-05-Repository-InMemory.md`
+- Fase 6 — Repository CSV (persistência em arquivo) (`src/fase-06-repository-csv`)
+    - Entrega da Fase 6 (artefato): `src/fase-06-repository-csv/FASE-06-Repository-CSV.md`
 - Fase 7 — Repository InMemory (`src/fase-07-repository-inmemory`)
 - Fase 8 — Repository CSV (`src/fase-08-repository-csv`)
 - Fase 9 — Repository JSON (`src/fase-09-repository-json`)
@@ -27,6 +30,32 @@
 - Fase 11 — Cheiros e antídotos (`src/fase-11-cheiros-antidotos`)
 - Fase 12 — Eixos / composição (opcional) (`src/fase-12-eixos-opcional`)
 - Fase 13 — Mini-projeto (`src/fase-13-mini-projeto`)
+
+
+
+## Como executar os testes da Fase 5
+
+1. Abra o terminal na raiz do projeto.
+2. Execute:
+    ```
+    dotnet test src/fase-05-repository-inmemory/InMemoryRepositoryTests.cs
+    ```
+    Ou rode todos os testes do projeto:
+    ```
+    dotnet test
+    ```
+
+## Como executar os testes da Fase 6
+
+1. Abra o terminal na raiz do projeto.
+2. Execute:
+    ```
+    dotnet test src/fase-06-repository-csv/CsvBookRepositoryTests.cs
+    ```
+    Ou rode todos os testes do projeto:
+    ```
+    dotnet test
+    ```
 
 ## Estrutura do Repositório
 
