@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PooInterface.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d03ba3ac6c127da6736501e593c4708fdd6102c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c0e009680cbaeebc536c277ad0639d8115b61d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PooInterface.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PooInterface.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
