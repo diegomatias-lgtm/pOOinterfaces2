@@ -27,12 +27,13 @@
     - Entrega da Fase 6 (artefato): `src/fase-06-repository-csv/FASE-06-Repository-CSV.md`
 - Fase 7 — Repository JSON (persistência em arquivo JSON) (`src/fase-07-repository-json`)
     - Entrega da Fase 7 (artefato): `src/fase-07-repository-json/FASE-07-Repository-JSON.md`
-- Fase 8 — ISP (Interface Segregation Principle) (`src/fase-08-isp`)
     - Entrega da Fase 8 (artefato): `src/fase-08-isp/FASE-08-ISP.md`
-- Fase 9 — Repository JSON (`src/fase-09-repository-json`)
 - Fase 10 — Testabilidade: dublês e costuras (`src/fase-10-testabilidade`)
-- Fase 11 — Cheiros e antídotos (`src/fase-11-cheiros-antidotos`)
-- Fase 12 — Eixos / composição (opcional) (`src/fase-12-eixos-opcional`)
+ - Fase 9 — Dublês avançados e testes assíncronos (`src/fase-09-dubles-async`)
+        - Entrega da Fase 9 (artefato): `src/fase-09-dubles-async/FASE-09-Dubles-Async.md`
+ - Fase 10 — Cheiros e Antídotos (`src/fase-09-cheiros-antidotos`)
+        - Entrega da Fase 10 (artefato): `src/fase-09-cheiros-antidotos/FASE-09-Cheiros-Antidotos.md`
+ - Fase 11 — Mini‑projeto de consolidação (`src/fase-11-mini-projeto`)
 - Fase 13 — Mini-projeto (`src/fase-13-mini-projeto`)
 ## Como executar os testes da Fase 8
 
