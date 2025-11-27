@@ -73,9 +73,8 @@ public class CsvRepository : IRepository<ToDo>
             if (!Guid.TryParse(parts[0], out var id)) continue;
             var title = Unescape(parts[1]);
             var done = bool.TryParse(parts[2], out var d) && d;
-            var item = new ToDo(title) { Done = done };
-            // keep original id
-            typeof(ToDo).GetProperty("Id")!.SetValue(item, id);
+            // use object initializer to set init-only Id safely (avoids reflection)
+            var item = new ToDo(title) { Id = id, Done = done };
             list.Add(item);
         }
         return list;
